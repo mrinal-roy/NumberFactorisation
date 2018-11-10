@@ -1,1 +1,1 @@
-# NumberFactorisation
+# NumberPrimeFactorisation
